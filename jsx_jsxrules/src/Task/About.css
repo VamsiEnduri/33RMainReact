@@ -1,0 +1,15 @@
+.personContainer{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(350px,1fr));
+    background-color: lightcoral;
+    padding: 10px;
+    gap: 20px;
+}
+
+.person > img {
+    width: 100%;
+}
+.person > button {
+    width: 100%;
+    padding: 4px;
+}

@@ -1,0 +1,18 @@
+topics :--
+
+list rendering (array of objects displaying) 
+const students=[{id:1,name:"abc",age:24},{id:2,name:"xyz",age:26}]
+
+
+react-router-dom (navigation in react app)
+it enables navigation r routing in react
+
+
+we have multiple comps in react-router-dom :--
+
+<BrowserRouter></BrowserRouter> :-- it enables routing in react app 
+<Routes></Routes> :-- it wraps all single Routes
+<Route ></Route> :-- it is a route which is holding path and syncable comp with that path
+
+<Link></Link> :--- it i a comp in RRD which is having  to location 
+( destination path ) as attribute

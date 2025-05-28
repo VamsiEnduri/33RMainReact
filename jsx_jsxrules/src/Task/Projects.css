@@ -1,0 +1,20 @@
+.housesContainer{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(350px,1fr));
+    gap: 20px;
+}
+
+.house > img {
+    width: 100%;
+}
+.house{
+    position: relative;
+}
+.house > p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: lightcoral;
+    padding: 4px;
+    border-radius: 3px;
+}
