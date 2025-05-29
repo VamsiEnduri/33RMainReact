@@ -1,0 +1,16 @@
+
+props :--  topic (properties)
+
+props are data carriers which carry data from one comp (parent) to another comp (child comp)
+
+two types of props :-
+
+1.general props
+2.children props
+
+data one comp --> another comp
+read only (we cant modify)
+
+
+routing:-- 
+list rendering :-- 
