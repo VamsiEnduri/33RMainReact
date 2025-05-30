@@ -1,0 +1,51 @@
+react-router-dom@2 :--
+product click
+url, pr id genrate
+products
+product
+prodcutDetails
+useNavigate() comp :-- RRD
+app comp :-- path="deminJeans/:id" elem ={<PdETAILS/>}
+separte prodcutDetails Comp 
+-------------------------------
+a mini e-commerce aplication  :---
+
+
+navbar
+signup
+login
+
+products --> 
+recipes
+
+cartItems
+favItems
+
+
+
+
+rrd:-- 2 :--
+Link :-- nav a links
+btn :-- click :-- 
+
+
+card :-- btns :-- useNavigate() :-- click :-- route navigation 
+url:-- id :-- comp loki :-- useParams() :-- path params, query params 
+
+
+navabr:-- recipes
+recipes :-- .clikc:- recipes comp render
+cards
+viewMOre :- click :--
+singleRecipe :-- display
+
+favIcon :-- 
+CartIcon :--
+
+list rendering :--
+
+
+react workflow architecture :-- 
+react, reactDOM, realDOM, jsx, Babel, VirtualDom, 
+how browser undertands jsx 
+js file react code :-- 
