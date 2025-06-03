@@ -4,6 +4,8 @@ import "./Navbar.css";
 import { IoCartOutline } from "react-icons/io5";
 import { FaHeart } from "react-icons/fa6";
 const Navbar = () => {
+  const dataFromLs = JSON.parse(localStorage.getItem("cartItems"));
+
   return (
     <div className="navbar">
       <h1>vamsiMart</h1>
@@ -15,7 +17,9 @@ const Navbar = () => {
           <span>Recipes</span>
         </Link>
         <Link to="/cartItems">
+        <span> {dataFromLs.length}</span>
           <IoCartOutline size={30} style={{ color: "red" }} />
+         
         </Link>
         <Link to="/favItems">
         <FaHeart />
