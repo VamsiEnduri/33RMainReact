@@ -1,0 +1,7 @@
+hooks:--
+hooks are nothing but inbulit js function inside react
+
+usestate()
+useEffect()
+useRef()
+useMemo()

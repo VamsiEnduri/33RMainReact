@@ -1,0 +1,7 @@
+// class based comps 2013
+// functional comp :-- hooks ( 2018 r-18)
+// class :-- functionality :-- state :-- you can cintrol whole comp data
+
+// state :--state is in react is nothing but an object which stores comp data
+
+// 
