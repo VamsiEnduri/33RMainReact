@@ -1,7 +1,7 @@
 hooks:--
 hooks are nothing but inbulit js function inside react
 
-usestate()
+usestate() :-- state mangament :-- syntax:--  const [state,setState]=useState()
 useEffect()
 useRef()
 useMemo()
