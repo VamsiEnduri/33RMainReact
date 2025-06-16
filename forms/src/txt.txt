@@ -1,0 +1,7 @@
+// forms in react :-- 
+input tags :-- 4
+name
+email
+pasqqord
+role
+sgnup
