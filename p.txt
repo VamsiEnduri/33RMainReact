@@ -1,0 +1,8 @@
+project :--
+authentication (firebase ) signup , login
+2 roles in yr project
+seller, buyer
+recruiter, job_seeker
+owner, rent taker
+teacher, parent
+
